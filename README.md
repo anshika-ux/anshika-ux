@@ -6,7 +6,7 @@
 <h3 align="left">Code. Create. Connect.</h3>
 
 <img align="right" alt="Coding Girl" width="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDMzcWJkbDFyZWRjdHc1aW16OWQzNTdtNmx1Njg4c3JhMWFvZ2h1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" />
-<p align="left">
+<p align="left-centre">
 🌱 I’m currently learning <b>Data Structures & Algorithms with Java</b> <br>
 👀 Exploring <b>Web & App Development</b><br>
 🎯 Sharpening my problem-solving on <b>Leetcode</b><br>

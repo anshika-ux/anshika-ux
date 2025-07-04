@@ -1,21 +1,47 @@
-![Profile views](https://visitor-badge.laobi.icu/badge?page_id=anshika-ux)
-# 💫 About Me:
-<table>
-  <tr>
-    <td>
-      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDMzcWJkbDFyZWRjdHc1aW16OWQzNTdtNmx1Njg4c3JhMWFvZ2h1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="280"/>
-    </td>
-    <td style="vertical-align: top; padding-left: 15px;">
-      <b>👋 Hi, I’m Anshika</b><br>
-      👀 I’m interested in Python Computing and DSA<br>
-      🌱 I’m currently learning DSA with Java<br>
-      🎯 I'm interested in web development and app development.<br>
-    </td>
-  </tr>
-</table>
+<h1 align="center">Hi 👋, I'm Anshika</h1>
+<h3 align="center">Code. Create. Connect.</h3>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anshika._013) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anshika-tripathi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ansh.t.00133@gmail.com) 
+<img align="right" alt="Coding Girl" width="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDMzcWJkbDFyZWRjdHc1aW16OWQzNTdtNmx1Njg4c3JhMWFvZ2h1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" />
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+<p align="left">
+🌱 I’m currently learning <b>Data Structures & Algorithms with Java</b> <br>
+👀 Exploring <b>Web & App Development</b><br>
+🎯 Sharpening my problem-solving on <b>Leetcode</b><br>
+📫 Reach me at: <b>anshikatripathi133@gmail.com</b> (replace with your real one)
+</p>
+
+---
+
+### 🧠 Languages & Tools I Use:
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/anshika-tripathi/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/anshika._013" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+  </a>
+  <a href="https://leetcode.com/](https://leetcode.com/u/anshika__13/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>

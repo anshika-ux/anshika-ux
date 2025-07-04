@@ -10,7 +10,7 @@
 🌱 I’m currently learning <b>Data Structures & Algorithms with Java</b> <br>
 👀 Exploring <b>Web & App Development</b><br>
 🎯 Sharpening my problem-solving on <b>Leetcode</b><br>
-📫 Reach me at: <b>anshika.email@example.com</b> (replace with your real one)
+📫 Reach me at: <b>ansh.t.00133@gmail.com</b> 
 </p>
 
 ### 🧠 Languages & Tools I Use:

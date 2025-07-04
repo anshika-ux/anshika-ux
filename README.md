@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=anshika-ux&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 <div style="display: flex; align-items: center;">
 
-<p align="center"><b>Hi 👋, I'm Anshika</b></p>
+<p><h1 align="center">Hi 👋, I'm Anshika</h1></p>
 <h3 align="left">Code. Create. Connect.</h3>
 
 <img align="right" alt="Coding Girl" width="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDMzcWJkbDFyZWRjdHc1aW16OWQzNTdtNmx1Njg4c3JhMWFvZ2h1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" />

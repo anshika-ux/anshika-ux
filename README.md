@@ -1,10 +1,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anshika-ux&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-<p align="center">
-  <div style="display: flex; align-items: center;">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDMzcWJkbDFyZWRjdHc1aW16OWQzNTdtNmx1Njg4c3JhMWFvZ2h1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWUud0yZrlFhR8JnwB/giphy.gif" alt="Coding Girl" width="220" style="margin-right: 24px; border-radius: 10px;" />
+<div style="display: flex; align-items: center;">
 
-  <div>
+  <div style="flex: 1;">
     <h1>Hi 👋, I'm Anshika</h1>
     <h3>Code. Create. Connect.</h3>
     <p>
@@ -14,8 +12,10 @@
       📫 Reach me at: <b>anshikatripathi133@gmail.com</b>
     </p>
   </div>
-</div>
 
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDMzcWJkbDFyZWRjdHc1aW16OWQzNTdtNmx1Njg4c3JhMWFvZ2h1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWUud0yZrlFhR8JnwB/giphy.gif" alt="Coding Girl" width="220" style="margin-left: 24px; border-radius: 10px;" />
+
+</div>
 ---
 
 ### 🧠 Languages & Tools I Use:

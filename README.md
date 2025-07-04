@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anshika</h1>
 <h3 align="center">Code. Create. Connect.</h3>
 
-<img align="right" alt="Coding Girl" width="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDMzcWJkbDFyZWRjdHc1aW16OWQzNTdtNmx1Njg4c3JhMWFvZ2h1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" />
+<img align="right" alt="Coding Girl" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDMzcWJkbDFyZWRjdHc1aW16OWQzNTdtNmx1Njg4c3JhMWFvZ2h1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" />
 
 <p align="left">
 🌱 I’m currently learning <b>Data Structures & Algorithms with Java</b> <br>

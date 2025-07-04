@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDMzcWJkbDFyZWRjdHc1aW16OWQzNTdtNmx1Njg4c3JhMWFvZ2h1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="250"/>
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDMzcWJkbDFyZWRjdHc1aW16OWQzNTdtNmx1Njg4c3JhMWFvZ2h1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="280"/>
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <b>👋 Hi, I’m Anshika</b><br>

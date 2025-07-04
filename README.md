@@ -1,3 +1,4 @@
+![Profile views](https://visitor-badge.laobi.icu/badge?page_id=anshika-ux)
 # 💫 About Me:
 - 👋 Hi, I’m anshika <br>-👀 I’m interested in Python Computing and DSA<br>-🌱 I’m currently learning  Dsa With java<br>-🎯 I'm interested in web -development and app development.<br>
 

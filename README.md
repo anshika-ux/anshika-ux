@@ -3,16 +3,17 @@
 <table>
   <tr>
     <td>
-      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDMzcWJkbDFyZWRjdHc1aW16OWQzNTdtNmx1Njg4c3JhMWFvZ2h1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="180" />
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDMzcWJkbDFyZWRjdHc1aW16OWQzNTdtNmx1Njg4c3JhMWFvZ2h1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="150"/>
     </td>
-    <td style="vertical-align: top; padding-left: 20px;">
-      <b>👋 Hey there </b><br>
+    <td style="vertical-align: top; padding-left: 15px;">
+      <b>👋 Hi, I’m Anshika</b><br>
       👀 I’m interested in Python Computing and DSA<br>
       🌱 I’m currently learning DSA with Java<br>
       🎯 I'm interested in web development and app development.<br>
     </td>
   </tr>
 </table>
+>
 
 
 

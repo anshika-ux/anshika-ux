@@ -1,17 +1,23 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anshika-ux&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
-<h1 align="center">Hi 👋, I'm Anshika</h1>
-<h3 align="center">Code. Create. Connect.</h3>
-
-<img align="right" alt="Coding Girl" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDMzcWJkbDFyZWRjdHc1aW16OWQzNTdtNmx1Njg4c3JhMWFvZ2h1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" />
-
-<p align="left">
-🌱 I’m currently learning <b>Data Structures & Algorithms with Java</b> <br>
-👀 Exploring <b>Web & App Development</b><br>
-🎯 Sharpening my problem-solving on <b>Leetcode</b><br>
-📫 Reach me at: <b>anshikatripathi133@gmail.com</b> (replace with your real one)
-</p>
+<table>
+<tr>
+<td style="vertical-align: middle;">
+  <h1 align="center">Hi 👋, I'm Anshika</h1>
+  <h3 align="center">Code. Create. Connect.</h3>
+  <p>
+    🌱 I’m currently learning <b>Data Structures & Algorithms with Java</b> <br>
+    👀 Exploring <b>Web & App Development</b><br>
+    🎯 Sharpening my problem-solving on <b>Leetcode</b><br>
+    📫 Reach me at: <b>anshikatripathi133@gmail.com</b>
+  </p>
+</td>
+<td>
+  <img alt="Coding Girl" width="340" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDMzcWJkbDFyZWRjdHc1aW16OWQzNTdtNmx1Njg4c3JhMWFvZ2h1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWUud0yZrlFhR8JnwB/giphy.gif" />
+</td>
+</tr>
+</table>
 
 ---
 

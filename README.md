@@ -1,6 +1,14 @@
 ![Profile views](https://visitor-badge.laobi.icu/badge?page_id=anshika-ux)
 # 💫 About Me:
-![Coding GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDMzcWJkbDFyZWRjdHc1aW16OWQzNTdtNmx1Njg4c3JhMWFvZ2h1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif)- 👋 Hi, I’m anshika <br>-👀 I’m interested in Python Computing and DSA<br>-🌱 I’m currently learning  Dsa With java<br>-🎯 I'm interested in web -development and app development.<br>
+<div style="display: flex; align-items: center;">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDMzcWJkbDFyZWRjdHc1aW16OWQzNTdtNmx1Njg4c3JhMWFvZ2h1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="180"/>
+  <div style="margin-left: 20px;">
+    <b>👋 Hi, I’m anshika</b> <br>
+    👀 I’m interested in Python Computing and DSA<br>
+    🌱 I’m currently learning Dsa With Java<br>
+    🎯 I'm interested in web development and app development.<br>
+  </div>
+</div>
 
 
 ## 🌐 Socials:

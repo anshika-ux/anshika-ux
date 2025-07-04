@@ -13,7 +13,7 @@
 📫 Reach me at: <b>ansh.t.00133@gmail.com</b> 
 </p>
 
-### 🧠 Languages & Tools I Use:
+### 💻 Languages & Tools I Use:
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -25,7 +25,7 @@
 </p>
 
 
-### 🌐 Connect with Me
+### 🫧 Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/anshika-tripathi/" target="_blank">

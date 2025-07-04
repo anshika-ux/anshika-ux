@@ -1,15 +1,19 @@
 ![Profile views](https://visitor-badge.laobi.icu/badge?page_id=anshika-ux)
 # 💫 About Me:
-<div style="display: flex; align-items: center;">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDMzcWJkbDFyZWRjdHc1aW16OWQzNTdtNmx1Njg4c3JhMWFvZ2h1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="180" alt="GIF"/>
-  
-  <div style="margin-left: 20px; line-height: 1.6;">
-    <p><b>👋 Hi, I’m</b></p>
-    <p>👀 I’m interested in Python Computing and DSA</p>
-    <p>🌱 I’m currently learning DSA with Java</p>
-    <p>🎯 I'm interested in web development and app development.</p>
-  </div>
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDMzcWJkbDFyZWRjdHc1aW16OWQzNTdtNmx1Njg4c3JhMWFvZ2h1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="180" />
+    </td>
+    <td style="vertical-align: top; padding-left: 20px;">
+      <b>👋 Hi, I’m</b><br>
+      👀 I’m interested in Python Computing and DSA<br>
+      🌱 I’m currently learning DSA with Java<br>
+      🎯 I'm interested in web development and app development.<br>
+    </td>
+  </tr>
+</table>
+
 
 
 ## 🌐 Socials:

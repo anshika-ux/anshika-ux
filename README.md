@@ -13,8 +13,6 @@
 📫 Reach me at: <b>anshika.email@example.com</b> (replace with your real one)
 </p>
 
----
-
 ### 🧠 Languages & Tools I Use:
 
 <p align="left">
@@ -27,7 +25,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </p>
 
----
 
 ### 🌐 Connect with Me
 

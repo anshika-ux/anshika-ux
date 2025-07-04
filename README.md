@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m anshika <br>- 👀 I’m interested in Python Computing and DSA<br>- 🌱 I’m currently learning  Dsa With java<br>- - 🎯 I'm interested in web -development and app development.<br>
+- 👋 Hi, I’m anshika <br>-👀 I’m interested in Python Computing and DSA<br>-🌱 I’m currently learning  Dsa With java<br>-🎯 I'm interested in web -development and app development.<br>
 
 
 ## 🌐 Socials:

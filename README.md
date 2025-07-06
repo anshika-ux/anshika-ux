@@ -38,7 +38,5 @@
   &nbsp;&nbsp;&nbsp;
 </p>
 
-...
 ---
 © 2025 anshika-ux. All rights reserved.  
-Do not copy, reproduce, or distribute without permission.

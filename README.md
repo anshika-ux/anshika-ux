@@ -41,23 +41,8 @@
 ## 🚀 My GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anshika-ux&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anshika-ux&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anshika-ux&theme=radical&hide_border=true)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anshika-ux&theme=react-dark&hide_border=true)
-
-## 📈 Contribution Metrics
-
-![Profile Views](https://komarev.com/ghpvc/?username=anshika-ux&color=brightgreen&style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/anshika-ux?style=social)
-![GitHub stars](https://img.shields.io/github/stars/anshika-ux?style=social)
-
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=anshika-ux&theme=radical&no-frame=true&column=7)
-
-
 ---
 © 2025 anshika-ux. All rights reserved.  

@@ -39,10 +39,14 @@
 </p>
 
 ## 🚀 My GitHub Statistics
+<div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anshika-ux&show_icons=true&theme=radical&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anshika-ux&layout=compact&theme=radical&hide_border=true&langs_count=8)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anshika-ux&show_icons=true&theme=radical&hide_border=true&count_private=true&card_width=400)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anshika-ux&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anshika-ux&&layout=compact&theme=radical&hide_border=true&langs_count=6&card_width=400)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anshika-ux&&theme=radical&hide_border=true&card_width=400)
+</div>
 ---
 © 2025 anshika-ux. All rights reserved.  
+

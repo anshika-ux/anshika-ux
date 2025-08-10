@@ -39,8 +39,6 @@
 </p>
 
 ## 🚀 My GitHub Statistics
-<div align="center">
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anshika-ux&show_icons=true&theme=radical&hide_border=true&count_private=true&card_width=100)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anshika-ux&&layout=compact&theme=radical&hide_border=true&langs_count=6&card_width=100)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anshika-ux&&theme=radical&hide_border=true&card_width=100)

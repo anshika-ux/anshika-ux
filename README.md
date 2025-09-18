@@ -39,7 +39,6 @@
 </p>
 
 ## 🚀 My GitHub Statistics
-![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=anshika-ux&theme=github-compact)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anshika-ux&layout=compact&theme=radical&hide_border=true)
 ---
 © 2025 anshika-ux. All rights reserved.  

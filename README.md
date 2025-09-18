@@ -54,7 +54,7 @@
 <td width="50%">
 
 ### ⚡ Pikachu's Stats
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/25.gif" width="50" align="right"/>
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/25.gif" width="80" align="right"/>
 
 ![GitHub stats](https://github-readme-stats-coral-two-25.vercel.app/api?username=anshika-ux&show_icons=true&theme=radical&count_private=true&include_all_commits=true&custom_title=⚡%20Coding%20Power%20⚡&icon_color=ff6347&title_color=ff4500&text_color=ff6347&bg_color=1a1b27)
 
@@ -62,7 +62,7 @@
 <td width="50%">
 
 ### 🔥 Charizard's Languages
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/6.gif" width="50" align="right"/>
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/6.gif" width="80" align="right"/>
 
 ![Top Languages](https://github-readme-stats-coral-two-25.vercel.app/api/top-langs/?username=anshika-ux&layout=compact&theme=radical&langs_count=8&custom_title=🔥%20Fire%20Languages%20🔥&title_color=32cd32&text_color=90ee90&bg_color=0d1117)
 

@@ -1,4 +1,3 @@
-##🌟 Welcome to My Pokemon Coding Adventure! 🌟
 <div align="center">
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/25.gif" width="100"/>
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/6.gif" width="100"/>

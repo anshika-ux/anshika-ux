@@ -52,18 +52,14 @@
 <table>
 <tr>
 <td width="50%">
-
-### ⚡ Pikachu's Stats
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/25.gif" width="80" align="right"/>
-
-![GitHub stats](https://github-readme-stats-coral-two-25.vercel.app/api?username=anshika-ux&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true&bg_color=00000000&layout=compact)
+⚡ Pikachu's Stats
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/25.gif" width="50" align="right"/>
+<img src="https://github-readme-stats-coral-two-25.vercel.app/api?username=anshika-ux&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true&bg_color=00000000&layout=compact" width="300"/>
 </td>
 <td width="50%">
-
-### 🔥 Charizard's Languages
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/6.gif" width="80" align="right"/>
-
-![Top Languages](https://github-readme-stats-coral-two-25.vercel.app/api/top-langs/?username=anshika-ux&layout=compact&theme=radical&langs_count=8&hide_border=true&bg_color=00000000)
+🔥 Charizard's Languages
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/6.gif" width="50" align="right"/>
+<img src="https://github-readme-stats-coral-two-25.vercel.app/api/top-langs/?username=anshika-ux&layout=compact&theme=radical&langs_count=8&hide_border=true&bg_color=00000000" width="300"/>
 </td>
 </tr>
 </table>

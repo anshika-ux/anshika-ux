@@ -41,6 +41,7 @@
 ## 🚀 My GitHub Statistics
 ![trophy](https://github-profile-trophy.vercel.app/?username=anshika-ux&theme=dracula)
 
+![Metrics](https://raw.githubusercontent.com/anshika-ux/anshika-ux/main/github-metrics.svg)
 
 ---
 © 2025 anshika-ux. All rights reserved.  

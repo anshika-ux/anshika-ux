@@ -39,8 +39,8 @@
 </p>
 
 ## 🚀 My GitHub Statistics
-![Followers](https://img.shields.io/github/followers/anshika-ux?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/anshika-ux?style=for-the-badge)
+![trophy](https://github-profile-trophy.vercel.app/?username=anshika-ux&theme=dracula)
+
 
 ---
 © 2025 anshika-ux. All rights reserved.  

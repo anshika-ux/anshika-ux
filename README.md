@@ -1,3 +1,8 @@
+</div>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=anshika-ux&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+<div style="display: flex; align-items: center;">
+<div>
 <div align="center">
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/25.gif" width="50"/>
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/6.gif" width="50"/>

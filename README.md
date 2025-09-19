@@ -65,7 +65,5 @@
 </td>
 </tr>
 </table>
-
----
 © 2025 anshika-ux. All rights reserved.  
 

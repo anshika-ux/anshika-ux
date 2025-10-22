@@ -40,12 +40,15 @@
 
 ## 🚀 My GitHub Statistics
 <table>
-<tr>
-<img src="https://https://github.com/anuraghazra/github-readme-stats?__vercel_toolbar_code=9uxmUEFW_Pd8Qki/api?username=anshika-ux&show_icons=true&theme=radical" width="500"/>
-<td style="width: 50%; min-width:400px; min-height:350px; padding:24px;">
-<img src="https://github-readme-stats-coral-two-25.vercel.app/api/top-langs/?username=anshika-ux&layout=compact&theme=radical&langs_count=8&hide_border=true&bg_color=00000000" width="500"/>
-</td>
-</tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=anshika-ux&show_icons=true&theme=radical&hide_border=true" width="400"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshika-ux&layout=compact&theme=radical&langs_count=8&hide_border=true" width="400"/>
+    </td>
+  </tr>
 </table>
+
 © 2025 anshika-ux. All rights reserved.  
 

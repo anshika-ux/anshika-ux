@@ -42,9 +42,6 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=anshika-ux&show_icons=true&theme=radical&hide_border=true" width="400"/>
-    </td>
-    <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshika-ux&layout=compact&theme=radical&langs_count=8&hide_border=true" width="400"/>
     </td>
   </tr>

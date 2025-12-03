@@ -38,14 +38,5 @@
   &nbsp;&nbsp;&nbsp;
 </p>
 
-## 🚀 My GitHub Statistics
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshika-ux&layout=compact&theme=radical&langs_count=8&hide_border=true" width="400"/>
-    </td>
-  </tr>
-</table>
-
 © 2025 anshika-ux. All rights reserved.  
 

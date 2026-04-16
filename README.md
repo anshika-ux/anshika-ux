@@ -13,8 +13,6 @@ src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDMzcWJkbDFyZWRjdHc1aW16O
 
 <br><br><br>
 
----
-
 ### 💻 Languages & Tools I Use:
 
 <p align="left">

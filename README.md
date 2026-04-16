@@ -6,12 +6,12 @@
   <h1>Hi 👋, I'm Anshika</h1>
   <h3>Code. Create. Connect.</h3>
 </div>
-<img align="right" alt="Coding Girl" width="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDMzcWJkbDFyZWRjdHc1aW16OWQzNTdtNmx1Njg4c3JhMWFvZ2h1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Z/dbtDDSvWErNFBUXd12/giphy.gif" />
+<img align="right" alt="Coding Girl" width="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDMzcWJkbDFyZWRjdHc1aW16OWQzNTdtNmx1Njg4c3JhMWFvZ2h1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" />
 <p align="left-centre">
-🌱 I'm currently learning <b>Full Stack development</b> <br>
+🌱 I’m currently learning <b>Full Stack development</b> <br>
 👀 Exploring <b>Web & App Development</b><br>
 🎯 Sharpening my problem-solving on <b>Leetcode</b><br>
-�� Reach me at: <b>anshikatripathi133@gmail.com</b> 
+📫 Reach me at: <b>anshikatripathi133@gmail.com</b> 
 </p>
 
 ### 💻 Languages & Tools I Use:
